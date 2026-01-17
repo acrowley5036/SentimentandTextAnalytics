@@ -1,2 +1,51 @@
 Utterance,pos_neg,pos_neg_neutral
-This csv is about the game Magic: The Gathering,positive,neutral
+I have questions about the game Magic: The Gathering,positive,neutral
+How long has MTG existed?,positive,neutral
+How do I play?,positive,neutral
+How long do games typically last?,positive,neutral
+What are the different color combinations?,positive,neutral
+Why do the color combinations have weird names?,negative,neutral
+Which color is the best to play?,positive,neutral
+Which color is the worst to play?,negative,neutral
+I hate the lifegain mechanic,negative,negative
+How can I counter lifegain decks?,negative,neutral
+I love aggro decks,positive,positive
+How can I improve at deck buidling?,positive,neutral
+Which of the many websites should I use for deckbuilding?,positive,neutral
+I play the standard and commander formats,positive,neutral
+Some commanders are hard to build around,negative,neutral
+Goblins are my favorite creature type,positive,positive
+Control decks are frustrating to face,negative,negative
+Land destructioncan be fun but too much land destruction isn't fun,negative,neutral
+I don't like playing boardwipes or counterspells,negative,negative
+Red and black is my favorite color combination,positive,positive
+Selesnya decks feel repetitive,negative,neutral
+The hobby is very expensive,negative,neutral
+I don't buy the cards,negative,neutral
+One of my coworkers prints them,positive,neutral
+My jobs has been too busy for my coworkers and I to play,negative,negative
+I also play on my phone,positive,neutral
+I want to find a local game store to play at,positive,neutral
+I would like to buy the soon-to-be-released cards later this month,positive,neutral
+They're too expensive, though, and I can't,negative,negative
+I've been trying out a lot of different decks on my phone,positive,neutral
+I like playing mill decks,positive,positive
+Opponents don't like playing against my mill decks,negative,negative
+For a long time I only played goblins and mill,positive,neutral
+When I started playing I didn't like black,negative,negative
+I've been playing with black a lot and I like it,positive,positive
+I think white is boring,negative,neutral
+Green was fun in the beginning,positive,positive
+Now I think green is too linear,negative,neutral
+I don't dislike green though,positive,neutral
+Green has good ramp and enchantment removal,positive,positive
+I've started to lose ideas for decks to build,negative,neutral
+I don't want to spend a lot of time studying cards,negative,neutral
+How can I improve my winrate?,positive,neutral
+I'm excited for the TMNT set to be released,positive,positive
+What's the most fun commander to play?,positive,positive
+Which commander do people dislike playing against?,negative,negative
+Which commander precon is the strongest?,positive,neutral
+How can I play in a tournament?,positive,neutral
+Do tournaments cost money?,negative,neutral
+Can you win money from tournaments?,positive,neutral
